@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////
-//Name: Eddie G. Pineda																			   //
-//Date: 12/01/2022																				   //
+//Name: Eddie G. Pineda										   //
+//Date: 12/01/2022										   //
 //Program Statement: Create a template that will create a static stack of any type of data.        //
 //                   Also create a template that will create a dynamic stack of integers.          //
 //                   Test both stacks with a driver program.                                       //
